@@ -1,4 +1,4 @@
-cat << EOF |tee 64in512out.txt
+cat << EOF |tee 20in512out.txt
 I’m a fashion blogger and I need your help writing a blog post. The topic is New York Fashion Week. This post should be helpful for people who are interested in the spring Christian Dior line.
 
 EOF
