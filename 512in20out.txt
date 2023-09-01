@@ -1,0 +1,5437 @@
+cat << EOF |tee 500in20out.txt
+“Can you provide a comprehensive summary of the given text? The summary should cover all the key points and main ideas presented in the original text, while also condensing the information into a concise and easy-to-understand format. Please ensure that the summary includes relevant details and examples that support the main ideas, while avoiding any unnecessary information or repetition. The length of the summary should be appropriate for the length and complexity of the original text, providing a clear and accurate overview without omitting any important information.”
+
+
+Leslie: Welcome everyone to
+our webinar series
+
+"Where Do I Start? The
+Basics of Converting
+
+instructor-led Training (or ILT) to Virtual
+instructor-led
+
+Training (or the VILT)"
+and this webinar series is
+
+presented by the National Institute
+of Corrections
+
+in collaboration with
+the International
+
+Association of Correctional
+Training Personnel
+
+or IACTP I'm Leslie
+LeMaster with NIC
+
+and I'll be serving
+today as your WebEx
+
+host and one of your
+facilitators for webinar three,
+
+which is the final
+in this series.
+
+You will notice as
+you join, that this is a listen-
+
+only webinar and the
+voices that you're
+
+going to be hearing will
+be mine, as your host,
+
+and those, as your facilitators.
+Your way of communicating with us
+
+is via the chat
+function, which is
+
+located in the lower right
+hand corner of the WebEx
+
+webinar screen. So, to ensure that
+chat function is turned on for you,
+
+please look in the
+lower right-
+
+hand corner of your
+screen and locate an icon,
+
+which looks like a text
+box or a chat bubble.
+
+Just click that icon to turn on
+chat and the chat box will open
+
+in the lower right-hand
+corner of your screen.
+
+We know a lot of you have already
+been chatting already, but we
+
+encourage you to try
+that chat out and
+
+at least say hello or
+give us a weather report
+
+and where you're joining us from
+because this is going to be
+
+your way to ask questions make
+comments and share resources all
+
+along the way during
+today's webinar.
+
+Just to let you know, this
+webinar is being recorded
+
+and when the recording is
+available and any resources
+
+also available, we
+will let you know
+
+via email from me when that recording
+and resources are available
+
+on the NIC website. In fact,
+if you've registered for
+
+any of the webinars in this
+series, you will get that email.
+
+So, just to let you know,
+there will be a
+
+question and answer
+session, but we also
+
+encourage you to ask
+questions in chat
+
+to everyone all along the
+way and we will answer
+
+as many as we can either in the
+moment when we see the question
+
+or during our question
+and answer period
+
+as we move towards the
+end of today's webinar.
+
+So, our producers, just to pull back
+the curtain in the background,
+
+will be monitoring
+chat for any of your
+
+technical issues
+you might be
+
+experiencing during
+the webinar delivery
+
+and they'll also be
+posting resources.
+
+Also, they're going to be
+monitoring for your questions
+
+and just to give you a
+little trainer tip for VILT,
+
+they'll be actually
+sending those to me in
+
+private chat so that
+when we get to the
+
+Q&A period. I will be
+ready to moderate
+
+that I'll have them
+all waiting for me
+
+to scroll through and find.
+So, without further ado,
+
+let's get started
+with today's webinar.
+
+So, today is the final
+webinar in our three
+
+webinar series and we
+will focus in on using
+
+ADDIE as our road map again, as we
+did in the first two webinars
+
+and use it for designing
+and adding interaction
+
+and engagement
+tools to achieve collaboration
+
+in virtual training.
+
+And before we
+get started today, I would love
+
+for each member of
+our facilitator team
+
+to introduce themselves.
+Jeff, you're up first.
+
+Jeff: Well, good morning
+everyone and welcome
+
+back. We're excited to be
+finishing up this webinar series
+
+and it couldn't be
+more timely for us at
+
+NIC and it this is a great
+reminder for us as well as we
+
+are currently in the
+process of converting
+
+several pieces of our
+curriculum, as well.
+
+I know the academy
+division has about
+
+two or three more that
+we're fixing to start on
+
+and putting the
+pipeline to convert one
+
+of those being the learning
+professional, which was
+
+traditionally 100 percent
+instructor-led and
+
+we're going to make
+that virtual
+
+instructor-led with
+a virtual T4C
+
+component so this is
+timely for us. It's
+
+a great reminder. And so,
+we're excited today to
+
+share with you and also learn
+from you along the way
+
+on virtual conversion..
+So, thank you and
+
+look forward to it.
+
+Leslie: Thank you, Jeff.
+And, Jim.
+
+Jim: Hey. Good morning everyone.
+excited to be back
+
+with you folks. As I look through
+the list of participants,
+
+a lot of familiar names
+there. A lot of great
+
+trainers that I've
+trained with in the past,
+
+you know? So, I'm here on behalf of
+the International
+
+Association of Correctional
+Training Personnel.
+
+So, very proud to
+partner with NIC on
+
+this and, as Jeff
+just mentioned,
+
+what a timely
+thing for us to be
+
+doing right now. I'm
+also working with NIC
+
+helping to deliver
+the correctional
+
+leadership development
+and management
+
+development for the future programs
+and we're doing
+
+those virtually and learning
+as we go, as well. So,
+
+hopefully, as we go
+along today, we can
+
+share some of
+those tips with you
+
+folks and as
+Jeff said learn from
+
+you folks, as well.
+So, excited to
+
+share tips on engagement
+interaction with you folks, today.
+
+Leslie: Thank you, Jim. And, Ashley.
+
+Ashley: Well, good morning, everyone.
+Just mainly with all of
+
+you that have been submersed
+in this pandemic
+
+and having to adjust and
+adapt and overcome.
+
+I've been living with
+this for the last 11 months
+
+as a front line staff
+helping run an academy
+
+that we had to adjust to VILT.
+So, it's just been a journey
+
+adapting and overcoming,
+correcting things as we go
+
+building upon what
+we learn and I look
+
+forward to sharing
+that with you all
+
+and getting some ideas
+from you, as well. So,
+
+hopefully, everyone enjoys. Thank
+you.
+
+Leslie: All right. Thank you, Ashley. And,
+Ashley won't toot her
+
+own horn, but I will for her.
+Ashley was IACTP's and still
+
+is IACTP's Trainer of the Year. So,
+just wanted to let you know
+
+we've got a award-winning
+trainer right here with us.
+
+So, we also have some other facilitators
+to share with you. Beth!
+
+Beth: Well, good morning.
+Thank you, Leslie.
+
+My name is Beth Kreger
+and I work for
+
+the Ohio Department
+of Education.
+
+I oversee our adult options
+programs here in Ohio,
+
+recently transitioned
+into this role from
+
+corrections. I spent about 26
+years working in corrections
+
+and actually was one of the
+leads on the transition
+
+for the new employee
+orientation program
+
+at the corrections
+training academy in Ohio
+
+from an instructor-led training
+to a virtual instructor-led
+
+training. And, as Leslie
+said, you know, Ashley
+
+was the trainer of the year and
+Ashley played a very vital role
+
+in that transition and I know
+Ashley shared her story,
+
+the Ohio story and I look
+forward to certainly --
+
+I think a lot of times during
+these sessions, as Jim alluded to,
+
+we can really learn
+just as much from
+
+you as hopefully you're
+learning from us
+
+and learning from
+other folks. So,
+
+I look forward to
+being with you here
+
+today and I hope that everyone
+has a great
+
+rest of the week.
+
+Leslie: And thank you,
+Beth. And, Archie!
+
+Archie: Hello, everyone. I'm
+Archie Weatherspoon IV
+
+with the National
+Institute of Corrections.
+
+I am the Program Manager
+for the Thinking For
+
+A Change curriculum, so,
+maybe some of you
+
+are familiar with
+that curriculum.
+
+I'm really excited to
+be here today. This
+
+conversation that
+we're having is near
+
+and dear to my heart. I had the
+luxury and the honor to kind of take
+
+during this pandemic a program
+that was already converted
+
+into what to a blended
+learning. So, with the VILT
+
+and ILT component, but then
+really change that ILT
+
+component where we held on saying
+these are the things that this
+
+absolutely cannot be done unless
+it's face to face. And guess what?
+
+We were able to do
+it all virtually. So,
+
+I'm really excited to be here
+today to share that with you all
+
+and kind of how we find those
+inner engagement interactions
+
+with your
+participants and your
+
+students. So, thank you
+for being here today
+
+and let's have some fun.
+
+Leslie: All right. Thank you, Archie,
+and I'm Leslie LeMaster
+
+with NIC I'm a correctional
+program specialist
+
+and when we're in the office
+Archie's office is right next
+
+door to me so I'm
+really missing him and
+
+I'm missing Jeff also because he's
+typically right down the hall.
+
+So today, I am functioning as
+the WebEx host and I'm the
+
+administrator of NIC's WebEx
+site that we use for all
+
+different things, but this also is
+very near and dear to my heart
+
+type of a webinar
+series because
+
+actually even before the
+pandemic hit, I was working
+
+on converting multiple instructor-led
+leadership and first-line
+
+supervisors trainings to virtual
+instructor-led just so we'd
+
+have a wider reach. So,
+this is very timely.
+
+This is a big part
+of I know what I do
+
+here. And we're so happy that
+you're all here with us
+
+to share not only
+the lessons of our
+
+experiences, meaning
+your facilitator team,
+
+but we want to hear some of the
+lessons of your experiences
+
+also by sharing
+resources in chat.
+
+So, let's
+get started.
+
+So, here are our two objectives for
+today. Again, we're going to
+
+be as interactive as we can
+be on this webinar
+
+platform. If we were in a virtual
+instructor-led training platform,
+
+we could do even more, but
+this is a one-way audio
+
+and chat is going
+to be our main tool.
+
+We're also going
+to be doing some
+
+on-screen annotation today, at
+least we, the facilitators, are
+
+to model how you can
+even be interactive and
+
+engaging in a
+webinar format. So,
+
+by the end of
+this session, what we
+
+hope you will be able to do
+is to choose participant
+
+interaction and engagement
+tools to achieve collaboration
+
+in your virtual training.
+So, we're talking about
+
+training design here based upon
+your performance objectives
+
+and describe initial
+steps to design
+
+interaction and engagement
+tools to achieve collaboration
+
+into your virtual instructor-led
+training.
+
+So, to start off today, we're
+going to summarize, briefly, where
+
+we've been so far in this ADDIE
+conversion road trip.
+
+In webinar one, back in December, we started
+here looking at the big
+
+picture of ILT to VILT conversion
+by looking at different levels and
+
+different lenses on analysis
+always beginning with the end
+
+in mind. And then, we took a
+look at design exactly
+
+what are you going
+to be blending in
+
+terms of your outcomes
+and what about
+
+the platform that your agency has
+selected. Is it going to have
+
+all the functionality that you
+really need and want it to have?
+
+Then, we took a look at
+development considerations,
+
+like the actual time
+it takes to convert
+
+from instructor-led to
+virtual instructor-led
+
+per hour. And also,
+training trainers
+
+and learners in the
+use and effective
+
+use of the virtual platform
+that your agency has.
+
+And then, in terms of implementation,
+what about delivery time frames?
+
+Coaching? Rehearsals?
+All kinds of things
+
+to make sure that when
+you do fully implement.
+
+It is going to be effective
+and last, but not
+
+least, and we don't want to
+leave this out is evaluation.
+
+Evaluation strategies
+designed and implemented
+
+on this conversion,
+how are you going to
+
+deploy them and
+your process to
+
+implement your evaluation
+results back into this
+
+ADDIE road trip as you
+start your next road trip.
+
+Then in webinar two, we took a look
+at the basics of converting
+
+ILT to VILT. What is
+the status
+
+at analysis phase of your
+instructor-led curriculum?
+
+Do you have a fully
+hand-off curriculum with
+
+lesson plans and
+facilitator guides?
+
+Participant workbooks
+or participant guides?
+
+Performance objectives written
+at the application level?
+
+Do you have posters, slide decks,
+a full curriculum package
+
+at design? We took a look at the
+importance of converting your
+
+performance objectives
+from instructor-led
+
+performance objectives to virtual
+instructor-led performance
+
+objectives. Then we moved
+on to development. What
+
+type of digital blend ingredients
+are needed? And that was that
+
+whole idea of things that you
+would do online during your live
+
+virtual instructor-led training
+sessions and the digital blend
+
+with virtual offline
+activities, but then you
+
+interconnect into your
+live online sessions.
+
+In other words,
+blended learning, but
+
+virtual blended
+learning in all facets.
+
+And then what about in
+terms of implementation?
+
+The live session durations and
+scheduling? And also the deliberate
+
+and strategic scheduling
+of intersession periods?
+
+And, again, last but not
+least, evaluations.
+
+Evaluation strategies
+developed and
+
+deployed and when
+are you doing them,
+
+both during and post
+the VILT series?
+
+So, that's where we've
+been so far. Today,
+
+we are going to
+be focusing on...
+
+How do I do this? How do I design
+and add interaction and engagement
+
+to achieve collaboration in
+virtual instructor-led training?
+
+Well, it's always good to
+begin with end in mind.
+
+So, as we've seen all
+the way through
+
+this, as we've started
+going down
+
+through the layers,
+the ADDIE framework
+
+applies to this, as well. And we cannot
+tell you how important that analysis
+
+stays in is to actually
+making this work, in terms of
+
+technological readiness,
+learner readiness,
+
+agency leadership commitment
+and readiness to support it
+
+fully and don't
+forget to evaluate. We
+
+just have a tendency to spend all
+of our time in design, development
+
+and implementation, but those other
+two facets are extremely critical.
+
+So, we begin with ADDIE just
+as we have in webinars
+
+one and two. And, first,
+we're going to take
+
+one more look at analyzing
+what our agency
+
+virtual platform
+.can support
+
+Jeff: Well, we're going to perform
+analysis as the first
+
+step of our road trip while
+we explore designing
+
+in and adding participant
+interactions and engagements
+
+to achieve collaboration
+in our virtual training.
+
+Beth: And, the first step is to analyze
+what engagement or interaction and
+
+collaboration tools that we need
+to use and how can we transition
+
+from our instructor-led training
+transition those same tools
+
+over to virtual
+instructor-led training.
+
+And once we do that, we can begin
+actively designing
+
+our curriculum.
+
+So, during webinar one, we looked
+at a variety of
+
+virtual tools that you can use when designing
+your virtual training
+
+session and those are listed on the
+screen right now.
+
+Jeff: Take a look at these tools and
+think about what your
+
+agency actually supports...
+
+and  this will help you decide
+what tools that you can help design
+
+into your program so as
+you look at those
+
+little bubbles there with the
+chat and the various
+
+other things in there, what
+can you do in your agency?
+
+what can you challenge the
+process? The typical
+
+norm to maybe get
+some more of those things approved
+
+as we move virtually?
+
+And Leslie's using our pointer
+and showing you some
+
+of those. So, just think about as
+you are designing this, what
+
+can you do what can you not do
+and what might you be able to
+
+do if you challenge
+the process?
+
+Beth: So, in webinar two, we
+talked about the importance
+
+of having a complete instructor-led
+curriculum available to
+
+you as you to help you transition
+into the virtual instructor-led training.
+
+If you don't have that good
+foundation to build upon,
+
+you're going to have a lot
+of issues or hurdles perhaps
+
+transitioning over to that
+virtual-led instructor training.
+
+So, it's really important
+that when you
+
+are designing your
+interactions and your
+
+engagements in your virtual instructor
+training, that you're able to
+
+interact with
+your participants
+
+and collaborate with them and
+make sure that they stay
+
+engaged just like they
+would if you were
+
+in the classroom for an
+instructor-led training.
+
+Jeff: And that's a great
+point Beth. This is
+
+even more critical
+when designing
+
+the virtual engagement
+and interaction
+
+and collaboration tools. It's
+so much more challenging
+
+to figure out how to
+do all this on the
+
+front end rather than
+just standing in
+
+front of a classroom and
+doing it as you go. So,
+
+let's take a look and see some
+of the most important things,
+
+now. One of the things
+that I wanted you to
+
+really think about
+is we talked about
+
+this in webinar one, but I wanted
+to just touch on it again briefly
+
+because we've all been in these
+training roles where we are
+
+up against the the time crunch and
+we have a supervisor that says
+
+can't you just convert
+that real fast to
+
+virtual? You got it. Can you
+just convert it real fast?
+
+They think this
+is we just wave a
+
+magic wand and this
+is how it happens.
+
+So, what I'd like you
+to do is take a
+
+look at the time, specifically
+the second one there, "Live
+
+Instructor-Led (Virtual). ATD
+did a survey with a number of
+
+respondents and they took an
+average of the hours to convert.
+
+And so, one of the things that
+you'll look at there is that
+
+the average is 28 hours
+it takes to convert
+
+one hour of training.
+So, check some
+
+impressions. What are
+you seeing here?
+
+What are you thinking?
+What about your agency?
+
+Do you have enough time to convert
+and do what you need to do?
+
+Think about a 30 or 40 hour
+instructor-led program
+
+and how many hours that might
+take you to convert virtually.
+
+We just have a tendency to
+underestimate the amount of time
+
+it takes with design and
+development for curriculum.
+
+And the more interactive and engaging
+activities that you design in,
+
+the longer it takes
+to put those in, the
+
+longer it takes to
+ensure that you have the
+
+appropriate amount of
+groups and breakouts set up,
+
+the amount of activities
+of the amount
+
+of debrief that you're
+going to do, as well.
+
+So, time is a big development
+consideration when it comes to the
+
+conversion of your curriculum.
+You have to make sure
+
+that you're planning
+for the time for
+
+resources,
+technical support,
+
+producers. You
+heard Leslie mention
+
+that we have a producer
+team with us today.
+
+This thing can't happen without
+the rehearsals that it takes.
+
+So, there's a lot of
+things that you have
+
+to do when you're
+factoring in virtual
+
+than just someone waving a
+magic wand and saying, "Yes,
+
+convert this and let's move
+on." So, make sure that we're
+
+thinking about
+this and that's why
+
+we wanted just to
+touch on this again.
+
+Jim: Man, that's great
+stuff, Jeff and Beth.
+
+Thank you very much
+for sharing that
+
+and I see some
+comments in the chat and
+
+hopefully, this is
+some things that you
+
+folks can take back
+to your leadership and
+
+convince the folks in
+your agency that it really does take
+
+time, this analysis
+phase and actually
+
+designing and
+converting things from
+
+instructor-led to virtual
+instructor-led.
+
+Now, let's move and talk more about --
+let's take a little deeper dive
+
+and talk more about engagements and
+interactions. So, what really are
+
+engagements and interactions
+in virtual training and...
+
+Ashley: Jim, I have a question.
+Why do we strive to achieve
+
+collaboration and virtual...
+
+Jim: Well, that's a great question,
+Ashley, and thank you very
+
+much for asking that. Really, both these
+questions, what are
+
+engagements and interactions
+and why do we strive
+
+to achieve collaboration
+and virtual
+
+training is really what we're
+going to talk about. So, let's
+
+take a quick look at that and what
+we're going to first talk about. Ashley.
+
+Ashley: Okay. So, first,
+we want to consider
+
+what is actual interaction?
+Remember, we consider
+
+interaction as a way
+of providing the opportunity
+
+for our learners to
+communicate amongst
+
+themselves with the facilitator and
+through this technology, some of
+
+these examples that we
+can use to gain the
+
+interaction is by
+using chat,
+
+emoticons, polls, two-way
+audio, whiteboard,
+
+the breakout rooms and some of
+our platforms that they allow,
+
+application sharing and
+annotation tools and web browsing.
+
+So, these are important
+to realize that you can
+
+increase that interaction
+with your
+
+learners in these
+programs to help move forward
+
+to keep them awake because,
+remember, keep them
+
+focused. We want their
+participation. If we can
+
+energize them and share that energy,
+that's going to help them learn.
+
+So, sometimes, having
+those options
+
+doesn't always guarantee
+that deep learning
+
+that we would like to
+occur. So, Jim, interaction.
+
+What about engagement
+when it comes to these?
+
+Jim: Thank you for asking that.
+That's great stuff on
+
+interaction, Ashley. Thank you
+and, you know, I
+
+encourage all of you folks
+that are trainers out there,
+
+been training for years
+and you understand training. I mean,
+
+that's what we want
+in our classrooms, our
+
+instructor-led classroom.
+So, why wouldn't
+
+we want that in our virtual
+instructor-led
+
+classrooms. That's how
+learning takes place. That's how we
+
+can ensure that folks
+are actually going to take that
+
+information, that new skill
+that we're giving them and actually
+
+apply it back on the
+job. Really, as we
+
+talk about engagement,
+here, today, there
+
+are really two types
+of engagement we're
+
+going to talk about.
+The first one is
+
+serial engagement. And,
+serial engagement
+
+is really when learners
+that contribute
+
+one at a time,
+one after another.
+
+Some examples of that
+would be that if,
+
+we as facilitators, ask
+learners to state
+
+their ideas, opinions
+maybe one at a time,
+
+and then let them
+all speak one at a
+
+time, maybe responding one at
+a time to the facilitator.
+
+Some of the things
+we need to consider
+
+when using serial
+engagement during
+
+our virtual instructor
+led trains is
+
+those exercises may
+take a long time. So,
+
+we may not have the
+time to do that kind of thing.
+
+It is orderly and
+well controlled, so
+
+some of us with control
+issues, we may like that
+
+a lot, but, also we need to keep in
+mind that learners can sometimes
+
+easily hide when we use
+this type of engagement.
+
+So, those are some
+considerations with serial engagement.
+
+Now, my favorite
+type of engagement
+
+when we use virtual
+instructor-led
+
+training is
+concurrent engagement
+
+and that is really
+when activities that
+
+engage all participants
+at once and really
+
+just like when we do our
+instructor-led trainings in the
+
+classroom, we can still
+do that virtually we get
+
+everybody involved at once.
+Some examples is when we post a
+
+whiteboard and learners
+can write on the
+
+whiteboard simultaneously.
+Use those annotation tools,
+
+breakout rooms
+would assign this to
+
+chart and breakout
+rooms things like that.
+
+And also some paired chat
+maybe just some examples
+
+of things we can do
+and if we can get
+
+those learners involved just
+as you folks know, as trainers,
+
+same thing applies
+in the virtual world.
+
+They feel important.
+They feel valued.
+
+They feel like their
+voices are heard. That's really,
+
+really what we're
+striving for. We've got
+
+to continue that in our virtual
+classrooms just like we do
+
+in our real world
+live classroom, the
+
+real world, but the live
+in person classrooms.
+
+So, now, for
+example, what types of,
+
+and I want to get
+some chat going
+
+because I'm going to get
+you folks involved here.
+
+What types of engagements
+have we been using so far
+
+in this webinar? Somebody
+chat some stuff
+
+in there, if you
+would, please, folks.
+
+Get some chat going.
+Let me know that
+
+you're you're actually paying
+attention and listening to me.
+
+What have we used to
+engage you folks today?
+
+Chat. Absolutely and thank you,
+Tracy. I appreciate that, Christina.
+
+Ah, Christina is
+actually saying that
+
+what they do in their training,
+they set up a jeopardy game.
+
+Brainstorming. Yeah, that's
+what we're using today
+
+and that's really all
+we can do today, as
+
+Leslie mentioned 
+to you earlier,
+
+this isn't the
+training because we
+
+got so many folks
+on. I see
+
+over 250 folks now,
+here. We just can't
+
+have all those other
+engagements today. This is a
+
+listen-only webinar,
+concurrent
+
+engagement, right now.
+You're absolutely
+
+right. Thank you, Robert.
+I appreciate that.
+
+That's exactly what
+ we're doing.
+
+So, that's engagement. I
+appreciate you folks
+
+posting things in the
+chat. Good stuff. So,
+
+Ashley, what about collaboration?
+What do you think about that?
+
+Ashley: A couple. 
+I love collaboration. So,
+
+things to think about
+when we talk about
+
+adding the interactive
+engagement
+
+and equaling that
+collaboration through
+
+those interactions, the
+outcome we're looking for,
+
+we want genuine
+participation in this.
+
+People get practice, hands-on
+abilities through
+
+collaboration, gives them a higher
+order of
+
+thinking, putting that in
+action, deliberately
+
+designing opportunities
+for them to learn,
+
+putting them in that
+position, taking
+
+them out of their comfort zones. And
+then, it also leads to that deep
+
+learning that happens during
+putting that wheel to work.
+
+So, these are just awesome ways of
+ending up with that collaboration.
+
+It allows them to build that
+baseline of information
+
+whether it be through readings,
+chats, the breakout sessions,
+
+offline activities and etc.
+
+So, now, it's time to 
+hear from you guys and gals. Based
+
+upon your platform
+that your organization uses,
+
+okay, we want to know,
+chat to all of us
+
+the interactions and
+engagements both the serial
+
+and the concurrent
+that you would like
+
+to design or add to 
+your virtual training.
+
+Jim: That's good stuff. 
+Yeah. Absolutely, Ashley. Thank
+
+you for asking that question and
+I already saw some stuff.
+
+Some folks were talking
+about doing a jeopardy game
+
+and things like that
+and I see folks are using
+
+Zoom and Teams, offline,
+con, life size, Zoom, yeah.
+
+Ashley: Whiteboard breakout
+sessions. These are great.
+
+Jim: Great ideas and 
+I think Leslie said
+
+earlier, as well, I believe
+the chat is going to be
+
+and, correct me if I'm
+wrong, Leslie, but
+
+the chat will be sent
+out so folks can
+
+see what people
+are posting in, as
+
+well. So, maybe, you
+can use this later
+
+and maybe ask questions
+of folks, what if
+
+you don't understand what
+some of those things are?
+
+Leslie: That is correct, Jim,
+and, in fact, a little
+
+bit earlier in the session,
+Scott from Colorado
+
+had posted what a jamboard is. So,
+I know Scott is on here, if he
+
+would repost that because see
+what's interesting about chat
+
+is you only see the
+chat after you join
+
+the session. So, if 
+anybody joined
+
+really early, like
+we had about 20 or 30
+
+participants join,
+you'll only see the chat
+
+after you join the session. So, that's
+just something for you to know,
+
+as a designer and facilitator
+as you're converting
+
+your instructor-
+led to virtual
+
+instructor-led. That's
+the way chat works,
+
+but, yes, I'll be sending the
+edited chat logs.
+
+So, that we can continue to
+actually share resources.
+
+Jim: Super. Thank you, Leslie.
+That's some great
+
+chat and I really appreciate
+all your interaction and
+
+thank you, Ashley, for
+getting them going.
+
+So, what's next, 
+Archie and Leslie?
+
+Archie: So, that's really
+cool. Now, we have to
+
+figure out how we 
+can match our
+
+interactions and our
+engagements to our
+
+performance objectives. So, we
+talked about this webinar, too, but
+
+those performance
+objectives drive
+
+everything. So, how
+can we use those in
+
+interactions and
+engagements to our
+
+performance objectives in order
+to achieve that collaboration
+
+in our virtual training? So, let's
+use design flow as our tool, here.
+
+Leslie: Oh, all right, Archie. I agree
+with you. Design flow
+
+is a great tool. So,
+to begin to match
+
+your lesson designs
+or your lesson plans
+
+to your performance objectives
+and the content taught
+
+and then determine what interactions,
+engagements and collaborations
+
+you should design and
+create. We can take our lead
+
+from design flow professionals. So,
+in this case, as you see up on the
+
+screen, we start
+at the left here
+
+in red with our performance
+objectives. Notice this is not
+
+all of a module all at once.
+It's performance objective by
+
+performance objective. So,
+if you're a curriculum
+
+designer and developer
+out there with me,
+
+that's where you start. If
+you're not necessarily
+
+a curriculum designer, developer, but
+you want to know how to do this
+
+in a really solid,
+orderly fashion to,
+
+you know, with checks and
+balances use this design flow. So,
+
+you start at the left 
+with your
+
+performance objective, then
+you delineate the contact
+
+content that you need to teach
+driven by that performance objective.
+
+And then, you begin to determine,
+you'll see in light blue,
+
+the interactions, the engagements,
+both serial and concurrent, and
+
+designing in
+collaborations within
+
+our virtual training classroom
+sessions. So, let's take a look
+
+at a sample of how this
+works. So, back in webinar two,
+
+we took a look at the
+overarching kind of session
+
+for NIC's correctional
+leadership development,
+
+the virtual session. And
+this is just a breakdown
+
+of one of our two
+performance objectives
+
+for VILT session one.
+So, starting over there
+
+in red-y pink, you'll see
+our performance objective,
+
+which is following
+guidelines for Action
+
+Learning Project 
+team report out.
+
+ALP teams will deliver a
+brief out with concluding
+
+question and answer.
+Then in green,
+
+is actually the content
+that we taught.
+
+We taught some of it
+back in phase one
+
+of correctional leadership
+development because this is
+
+phase two VILT session
+one. And then, we also had
+
+intercession assignments on that
+and then the ALP team
+
+presentation guidelines. We first
+talked in back in phase one
+
+and then we reiterated during
+the intercession period.
+
+Then, you see up in
+light blue, our various
+
+interactions that we
+designed. And notice
+
+it's not just 
+one interaction,
+
+it is multiple. and thank you
+Archie and you'll note that
+
+some of the interactions
+occur offline
+
+before we ever get to
+the VILT session one.
+
+And some of them actually occur
+during the live ALP session, yeah.
+
+Action Learning Project teams
+or Action Learning Projects.
+
+So, what's cool about them is that
+is a research-based evidence
+
+practice in any kind of
+training, but particularly
+
+in supervisory management
+or leadership development
+
+for having real 
+agency practice
+
+from what you teach
+in the classroom,
+
+what they're learning about
+themselves as individuals as
+
+teams and then applying
+it to a real agency
+
+issue. So, I encourage
+you to go out online
+
+and look at Action
+Learning Project research.
+
+We have senior level and
+executive sponsors of the teams
+
+and we call them
+ALPs for short, ALPs.
+
+And then we use all
+the tools of the
+
+virtual instructor-led
+platform that we have.
+
+We use annotation tools, webcams,
+chats, participant tools
+
+so we can see the teams in
+action in a socially-distanced
+
+fashion and that's how
+they do their report out.
+
+Not only to us, but everybody else.
+So then, in purple you see the
+
+engagements that 
+we designed.
+
+The ALP teams are
+collaborating offline
+
+on preparing their ALP slide
+deck for presentation
+
+in that first VILT
+following those
+
+guidelines and they also get coaching
+from us and feedback from us,
+
+as their NIC coaches.
+They were also getting
+
+feedback because we
+just did this first
+
+session yesterday, so this
+is hot off the press.
+
+They were also getting coaching
+from their own agency sponsors
+
+and executive leadership
+on their presentations.
+
+And then, lastly, how we achieved
+and reached collaboration.
+
+Each ALP team debriefs their
+presentation post-VILT one. That was
+
+one of their
+intercession assignments.
+
+They debrief it from
+an individual and a
+
+team level and then we're going
+to actually do a live debrief
+
+at the beginning of VILT Two, which
+is tomorrow and we're going to
+
+summarize all the learnings
+across ALP teams
+
+in VILT Eight. And then, ultimately,
+as an individual learner,
+
+they're going to
+add learnings
+
+to their own leadership
+development plan in practice
+
+throughout the VILT series and
+during intercession periods for
+
+ultimate application on the job.
+So, that is actually how to go
+
+about that. So, Archie, where
+are we gonna go next with this?
+
+I think maybe we should
+do one of these design
+
+flows together with everybody
+on the webinar. Whatcha think?
+
+Archie: I was just about 
+to say that. Let's rock.
+
+Leslie: All right.
+
+Archie: I'll go ahead and do this 
+and let's do this using
+
+chat. How about that? All right. So, what
+we have on the left
+
+side is our performance objective
+and, again, I was stressing
+
+our performance objective
+is what drives our
+
+activities in regards to
+interaction and engagement, right?
+
+So our performance objective
+is following the procedure
+
+presented in class. We're
+going to locate and download
+
+annual leave forms for agency
+website. So, this is our
+
+scenario that we're
+going to work with.
+
+What we're going to do is
+we're going to take a look at
+
+what content must be
+taught in order to
+
+achieve that
+performance objective.
+
+Also, what interactions
+are needed in
+
+order to achieve that performance
+objective and that's being taught
+
+in our virtual training?
+session. Also, what engagements
+
+are needed for us to achieve
+that performance objectives?
+
+And then, finally, what
+collaboration must we
+
+actually create in order to achieve
+that performance objective?
+
+So, we're going to go ahead and we're
+going to start by chatting out
+
+on the content. So,
+again, our performance
+
+objective is to
+locate and download
+
+annual leave forms from agency
+website. So, if you were to train that,
+
+what would be some
+ways that we can
+
+get that? So, we're going
+to go in our green
+
+box. What content must we
+train on in order to perform
+
+or to meet that
+performance objectives?
+
+Go ahead and shout
+out to everyone
+
+and we're going to
+use Leslie to
+
+annotate right on that
+big old green box
+
+there in the middle
+for content. So,
+
+we got some chats
+coming in it looks like.
+
+Let me just go back
+up. Let me scroll back
+
+up so system navigation.
+So, Leslie, you
+
+caught that one, it
+looks like. What other
+
+forms look like and have
+them show the agency
+
+how to use it so it looks
+like kind of doing a
+
+demonstration on how 
+to access
+
+and locate the 
+agency website.
+
+Leslie: What else are 
+you seeing, Arch?
+
+Archie: I am seeing it seems along the
+lines of having a
+
+slide deck that shows this,
+how to access the website,
+
+where the forms are, where to
+download on your computer. That
+
+is another piece of content
+that we'll want to train on,
+
+how to access and download
+onto your computer
+
+Leslie: What else you seeing, Arch?
+
+Archie: You're seeing 
+how to, looks like sign into the
+
+system. It's a piece that 
+may need to be touched on and I'm
+
+scrolling. Thank you so
+much for all these chats.
+
+I know how to fill out
+the form. Links
+
+to the form and how
+to fill those out.
+
+And then, Leslie, when
+you get a chance if
+
+you could just click
+on the screen so
+
+those words will
+appear for everyone.
+
+Leslie: And I have 
+done that.  All right perfect.
+
+Archie: There we go. 
+Perfect. So, it looks like we
+
+have the content of what 
+we're going to come
+
+up and I'm pretty sure there's
+other ideas all in
+
+the chat. I apologize. I could
+not get to all of them,
+
+but what we're going
+to do now is move
+
+up to that light blue box on
+the top right of your screen.
+
+This is where we have
+our interactions.
+
+What should we design
+in order to achieve
+
+our performance objective of getting
+them to locate and download
+
+those forms. So, go
+ahead and put that in
+
+the chat to 
+all participants.
+
+And, Archie, maybe
+we should just
+
+remind everybody of the definition
+of interaction
+
+and I'm gonna do that 
+and remember
+
+interaction is providing 
+learners the opportunity
+
+to communicate 
+amongst themselves,
+
+the facilitators and
+through technology,
+
+chat, emoticon, polls,
+two-way audio,
+
+whiteboards, breakout
+rooms, application
+
+sharing, application
+tools and web browsing.
+
+Go for it, Archie, 
+what kind of engagement
+
+should we do?
+
+Archie: Here's what we have 
+coming in.
+
+Thank you so much for that tip. So, 
+it looks like a quick
+
+help guide as a as a response 
+that's coming in, flow charts,
+
+a narrated PowerPoint
+that one can view,
+
+but let's look at
+some other system.
+
+A click on continue button or
+click to see next button.
+
+The ability to share their
+screen and navigate the location.
+
+We have some suggestions in
+regards to demos or polls.
+
+And then, annotations 
+to share.
+
+And I think some
+people are just saying,
+
+you know, just kind of knowing
+the difference of what your
+
+platform is, so all these
+things will change, but these
+
+are just the basic
+ideas and also
+
+using the whiteboard breakout
+rooms and that kind of leads into
+
+my next question. So,
+if we go to that
+
+middle box, 
+that purple box there,
+
+what engagement
+should we design in
+
+order to achieve this
+performance objective?
+
+So, what ways can we use
+to design some engagement
+
+to get that performance objective?
+Go ahead and chat that out
+
+to all participants
+or to to everyone.
+
+Leslie: And, remember, you can
+design in serial
+
+or concurrent engagements?
+And that's where
+
+all participants are
+participating and engaging,
+
+interacting all at
+once at the same time.
+
+Archie: So, we have
+small group discussions
+
+is one suggested.
+
+Leslie: And how would 
+we do that? Would
+
+that be in 
+the large room?
+
+Archie: Someone said breakout
+room.
+
+Leslie: Mm-hmm.
+
+Leslie: I think this might be a
+cool one to do a paired chat too.
+
+Archie: So, that was another 
+suggestion. Thank you, Melissa.
+
+We have chat and discussions 
+that can go on. We can do
+
+the simulation and breakout 
+groups. So, chat, paired chat, discussions.
+
+And we have a quiz that could
+be done is another suggestion.
+
+Thank you everybody for
+your participation in this.
+
+Raise hands to ask 
+questions. So, yeah, we
+
+can use games or just 
+raise your hand and
+
+ask questions in a way to
+find engagement and get
+
+those performance 
+objectives achieved.
+
+Archie: Great. Great.
+
+Leslie: Mm-hmm.
+
+Archie: And, Leslie, 
+that's a great
+
+tip. Thank you for sharing 
+that for everyone.
+
+Perfect. So, now, if we
+just go on to that
+
+bottom box, that turquoise
+box there on the bottom.
+
+We're trying to create
+collaborations here
+
+So, what should we
+design in order to
+
+achieve that
+performance objective?
+
+Go ahead and check that 
+out to everyone.
+
+And Ashley says 
+she's stealing some of
+
+these ideas. Hey, so am I,
+Ashley. So am I.
+
+Leslie: Me too. 
+Me too.
+
+Archie: So, again, how 
+do we create that collaboration?
+
+Ask for suggestions on how to
+improve that process
+
+going forward. So, it looks 
+like...
+
+...a little open-ended question 
+to kind of figure out
+
+what we can learn.
+
+And then, Tracy shared on 
+how to fill it out correctly.
+
+Have them fill out correctly.
+
+Scrolling down. Role play is another 
+suggestion that could
+
+come up in here or 
+group practice.
+
+Just kind of like we're 
+doing now someone said.
+
+Have that group exchange or 
+let them actually annotate the steps.
+
+Take a survey.
+
+Or Anita shared about a group 
+presentation via PowerPoint.
+
+That sounds 
+really cool.
+
+Leslie, I know there's 
+more ideas that are coming
+
+in, but I know we 
+want to kind of keep this going
+
+because I feel really good
+right now. How are you feeling?
+
+Leslie: I think we've got
+some fantastic ideas,
+
+Archie, and definitely
+this is proof
+
+that together we are better. Synergy
+works. So, thank you everyone
+
+for doing this. So,
+this is an example
+
+just to give you this
+particular technique of where
+
+the facilitator
+annotates based upon
+
+what their training
+group gives them and
+
+notice, Archie was facilitating
+and I was actually
+
+annotating, but you can also do
+this in the virtual instructor-led
+
+classroom and the people who
+would be annotating would be
+
+all of the participants
+all at once.
+
+The key to making that work
+though is really clear directions
+
+on where you want them to
+annotate on the screen.
+
+So, in addition to all of
+these fantastic ideas
+
+that we've got up here,
+we have a completed
+
+form here for you to take a
+look at and for us to peruse.
+
+So, this completed 
+design flow
+
+is using that same
+performance objective
+
+that you have right
+there in this
+
+example that we just
+worked on together.
+
+So, Archie, what do we
+want to do with this?
+
+Archie Hey, team. I need y'all
+to chat out what
+
+are you noticing
+about this design
+
+flow? What are some
+ahas or takeaways?
+
+How do they compare
+to what we came up
+
+with as a large group
+of over 260 people?
+
+Or, you know, how is 
+it different? So, go
+
+ahead and chat 
+that out to everyone.
+
+[Leslie laughs]
+
+Archie: All right. We have a
+lot of this built in,
+
+but it's getting
+them to do it right.
+
+Yes, I mean, we can
+design engagement, but
+
+if they don't do it,
+what are we missing?
+
+So, we want to really be there
+and kind of separate those
+
+interactions from engagements.
+
+Leslie: Yeah, and, you know, 
+it could be what
+
+you're experiencing
+is learner comfort
+
+and feeling safe in the
+virtual environment.
+
+I know that that's
+something we spend
+
+time on in our virtual
+instructor-led courses.
+
+Pretty much, the first
+half of our first VILT session
+
+a couple of recommended
+practices is just
+
+orientation to the
+platform, getting them
+
+used to the tools so they feel
+comfort and they get some mastery on
+
+just the tools of the platform,
+much less the content that you're
+
+actually teaching. The other
+thing that we have done here
+
+at NIC very successfully is we
+have what we call a "Separate
+
+Orientation and
+Tech Check VILT,"
+
+and it's all about
+making sure all of
+
+their technology works and they
+can access what they need to do
+
+and then all the different
+functionality that we use
+
+during any and all
+of the VILT sessions
+
+will be checked out
+before we ever get
+
+to a VILT session where
+we want to do content.
+
+So, yeah,
+don't forget that
+
+orientation to the
+tools and practice,
+
+for sure. And that
+is, again, another
+
+just best practice
+in general about
+
+distance learning
+regardless of the format,
+
+whether it's video
+conferencing, webinars,
+
+virtual instructor-led
+training or a blend.
+
+So, just something
+to know about. So,
+
+Archie, what are you
+seeing in terms of
+
+themes there?
+
+Archie: I've seen one 
+thing I just wanted
+
+to point out so I think Lorraine
+Washington
+
+talked about
+what a gallery crawl is
+
+and I just want to
+share just briefly
+
+what that means. And so,
+let's say you brought
+
+your groups into small
+breakout groups.
+
+They could be working
+on a different
+
+project, maybe different
+topics similar
+
+to the discussion
+that's being had.
+
+They can annotate their
+different discussion
+
+items as a group
+and a host can actually save
+
+those documents
+depending on your
+
+online platform
+that you're using?
+
+They can save that
+and then post it in
+
+the large group and 
+you can give
+
+one to three, four minutes
+or whatever for everyone
+
+to review what the
+other groups worked
+
+on. So, it's like kind
+of being an art
+
+gallery. You get to
+see the fine art
+
+that has been handcrafted and
+made for your pleasure.
+
+So, that's an idea of what a
+gallery crawl would look like.
+
+Leslie: Yeah and it's almost 
+the same as if you were
+
+in person, you know, 
+how sometimes you get
+
+them to walk and talk and look
+at charted items
+
+from small group
+breakouts as a way and
+
+then you do a 
+summary debrief.
+
+That's the virtual version of
+it. It's a really cool technique,
+
+for sure.
+
+Archie: it is
+really. Yes, it is really cool.
+
+Leslie: It really is and we're
+seeing so many fantastic
+
+comments. And, yeah, thank you
+for the compliment, Vicky.
+
+Vicky is saying that my
+readiness emails are
+
+templates
+for us to use. Yeah,
+
+that's all about
+getting you ready for
+
+what's coming up and
+being right ready to go.
+
+So, it's effective
+from the get go.
+
+So, now, I'm sure you might 
+be asking both me
+
+and Archie, "Hey, you guys. What are
+some
+
+engagement tools that 
+maybe I haven't
+
+thought of yet? Help me 
+out here."
+
+Archie: Hey, let's take a look there 
+are a whole
+
+array of free online tools 
+that you can use to
+
+prepare for your virtual interactions
+and engagement
+
+for virtual training and I'm
+just going to highlight
+
+a few. I'm going to just
+put my attention over
+
+to the kind of this
+this right little
+
+corner of this thought
+bubble here and
+
+bring your attention
+to just three items
+
+that are on here, but
+there's a lot more.
+
+And if you have more
+for engagement and
+
+interaction, feel
+free to chat out to
+
+everyone what
+things you may be using, but
+
+Mentimeter,
+Sli.do, Kahoot!, maybe? I
+
+know I saw in the chat, we
+talked about Kahoot! before, but
+
+these are ways to engage people
+in real time. You can do polls,
+
+questions, quizzes, games
+right there with it
+
+as an add-on or supplement
+to your already completed
+
+online platform.
+So, Zoom, WebEx, you know,
+
+Microsoft Teams, whatever
+you're using, you can use these
+
+as an addition to
+kind of finding those
+
+engagements um and have a lot of
+fun doing it, too,
+
+quite honestly. There's 
+other things that are
+
+on here, too, so thank you
+SessionLab for
+
+these ideas, but feel
+free to look up any of these.
+
+But, really, when we're talking about
+engagement, here's
+
+just a few, small, few
+examples of how you
+
+can find some engagement
+and interaction
+
+in your online sessions
+or offline sessions, as well.
+
+Let's see, I'm not seeing any
+others come to chat,
+
+but I don't want you
+to forget about the
+
+ingredients to your
+digital blend So, we
+
+talked about this in 
+webinar two.
+
+So, that the ingredients
+for your digital blend,
+
+remember from webinar
+two, we talked about
+
+the second best
+practice and that's
+
+the digital blend between
+your online live sessions
+
+with your content
+activities and your
+
+offline assignments
+and activities.
+
+It's that digital blending 
+equation that we
+
+want to take a look at 
+with 'A:' the length of
+
+the duration or the length 
+of your session,
+
+'B:' the number of live 
+sessions that are actually needed because of,
+
+'C:' like, I talked about before, 
+our virtual performance
+
+objectives are driving us to this 
+so that's what drives us.
+
+So, remember, what we 
+learned in webinar two, best
+
+practices one and two come into
+play before we do
+
+implementation before
+we implement. And that's
+
+best practice three,
+what's our duration and
+
+our length? How many
+sessions? How many
+
+breaks do we need in order
+for this to be a worthwhile
+
+experience? Remember, 
+interactions and
+
+engagements, as
+we've seen, can occur
+
+both online or offline during
+your assignments or activities,
+
+which are all connected
+back to our part
+
+to our performance 
+objectives. So,
+
+our performance
+objectives really help us match
+
+what content and activities are
+needed for our online sessions
+
+and for our offline sessions
+in those activities,
+
+which include that
+design flow for our
+
+interactions and engagements
+to achieve
+
+collaboration and training. 
+So, we've visited
+
+analysis, we've talked about
+the double Ds in regards to
+
+design and develop on
+this ADDIE road trip,
+
+but, team, I need you to
+do one thing for me,
+
+we just covered a lot
+of information. If
+
+you can go ahead I
+know you can't do
+
+this, put your hands
+in or give me a high
+
+five. So, go ahead and
+shout out to everyone,
+
+chat out of five for
+me. Give yourself a
+
+high five, team, because we covered
+a lot with that activity
+
+on putting that all together.
+There we go! And, again,
+
+not deep learning, but
+a way to have some
+
+interaction there, Leslie.
+So, let's go over to Jeff
+
+and Beth and let's
+talk about
+
+there is no 'I' in team, but there
+is an 'I' in Implementation.
+
+Jeff: A lot of information 
+packed in there,
+
+Archie. Thank you and this 
+is amazing
+
+and this is what we're
+talking about when we talk
+
+about implementing this.
+You're seeing it live,
+
+here. This is
+what you do with the chat.
+
+So, just like Archie
+said, hey, just chat
+
+me a five and it's just a way
+to implement some of these
+
+short, little, quick
+snippets to make sure
+
+people are paying attention, but as
+we arrive at virtual interaction
+
+and engagement, we're now
+at implementation. So, some
+
+considerations to 
+share with you...
+
+in addition to the best practices
+that we learned in webinar two,
+
+there are some key
+differences between
+
+in-person and virtual
+training to take into account.
+
+So, Beth, what do you
+see in here?
+
+Beth: I'm sorry I was chatting
+away on mute.
+
+So, that's
+really a good segue into
+
+what are some of
+the key differences.
+
+The increased
+role of technology
+
+can be our friend
+or it can be our foe.
+
+I've been monitoring
+the chat, just kind
+
+of watching what you
+guys are saying and,
+
+you know, some agencies have
+a lot of firewalls that
+
+you have to break
+through to be able to
+
+utilize any of the
+technology that
+
+Archie was talking about or 
+any of the interactive
+
+tools. And I also saw a couple 
+people in the chat mention
+
+the fact that you know getting your agency
+administration on board
+
+with allowing these tools to be
+incorporated into your training
+
+can sometimes be challenging, but,
+ultimately, the reward is you make
+
+your training much more
+meaningful and much more engaging.
+
+We
+have to think about
+
+different strategies that
+we use to engage our
+
+learners. You know, when we're on
+a webinar with 250 plus people,
+
+it's very difficult for us to
+read body language. We can't
+
+because we can't see
+you. So, we can't
+
+really tell get a feel if
+we're on track or we're not
+
+on track unless we're keeping
+you engaged in the chat
+
+or perhaps we're
+soliciting feedback. You
+
+know, are we going too fast,
+are we going too slow?
+
+I know Leslie's
+really good about
+
+monitoring that and
+watching our time
+
+and that can be
+challenging sometimes from
+
+a presenter's
+standpoint when you are
+
+in front of a classroom
+in a virtual environment.
+
+Oftentimes, you know, if
+you require your staff
+
+to have their 
+cameras on. You can
+
+somewhat tell what
+they're doing, but not
+
+always. So, again, it just goes
+back to that engagement
+
+and the the absolute importance
+of keeping people engaged.
+
+I also want to talk about
+the necessity of multitasking.
+
+When you are running
+a virtual-led
+
+instructor training,
+and I noticed a chat,
+
+a comment in the chat from
+Leslie Bestly. She said that
+
+she was drained after
+running a VILT
+
+case manager training
+yesterday. And I
+
+can really empathize
+with that because
+
+we have so many things
+going on behind
+
+the scenes when we're
+doing a virtual training.
+
+You know, you have technology
+hurdles that sometimes
+
+we can't overcome, but that's why
+we have four or five people
+
+in a webinar this size
+producing on the back end.
+
+And I talked to
+some of the producers
+
+after the training and say,
+you know, "How busy were you?"
+
+And they were extremely
+busy just troubleshooting
+
+for the participants.
+So, we can make this
+
+the absolute best experience
+for you.
+
+The other issue is, as a facilitator, we
+sometimes forget
+
+to engage our audience because
+we have to focus on the time.
+
+You have to focus on the
+content. What's coming up next?
+
+You know, is your
+co-facilitator on
+
+mute and you have to 
+pick up the slack for
+
+them because I was talking
+to myself not all of you.
+
+And, Jeff, you did a
+fantastic job. So,
+
+you know, working together as a
+team, but also understanding that,
+
+as a facilitator, if you have the
+fortunate opportunity to have
+
+at least a co-facilitator
+and at least one
+
+producer things are going
+to run much more smoothly
+
+for you as opposed to
+being in the classroom
+
+just having one person standing
+in front doing the presenting.
+
+Beth: All right. So, 
+Jeff and Ashley.
+
+Jeff: Yeah, thank you so much,
+Beth. So, one of
+
+the things we're thinking about
+here is we're talking about
+
+the virtual facilitator
+skill sets. That
+
+first one there about the
+ability to multitask.
+
+Think about your
+role, as Beth just
+
+talked about, and how many
+things you have to do.
+
+Even in this webinar,
+which we have a lot
+
+of different people 
+helping out,
+
+I'm multitasking behind the scenes.
+Not only am I watching the chat,
+
+I'm checking the
+slides, I'm seeing when
+
+in the notes section 
+what's next,
+
+I'm watching also my
+cell phone because,
+
+as producers and facilitators, we'll
+do a little text group where we
+
+keep in touch with each
+other that way. So, if we're
+
+on track or off track,
+we can actually
+
+hit each other on a
+different platform.
+
+And so, we're not just totally
+focused on the chat to produce
+
+and to facilitate.
+So, there's a lot of
+
+different things you can
+do as a facilitator,
+
+but you have to get
+comfortable with
+
+this and I and I can't say this
+enough, but even when you're
+
+multitasking, 
+rehearsal is key.
+
+Ashley: Okay, next we're going to
+talk about the master
+
+the technology and this
+can be more challenging,
+
+like we talked about 
+having that
+
+facilitator learn the
+virtual classroom,
+
+teaching that live online
+session the instructor needs to be
+
+comfortable in what
+they are using,
+
+how they are using it and that
+when it comes to that platform,
+
+using the features, if they're
+familiar with those to be able to
+
+enhance that online session
+with their learners.
+
+They also need to be able
+to switch among presenting
+
+to a whiteboard, answering
+those chat messages,
+
+interacting with 
+those learners.
+
+That's also definitely part 
+of mastering that technology
+
+that helps lead you into that
+multitasking like Jeff just talked about.
+
+Jeff: And I'm moving into creating 
+a comfortable learning
+
+environment. This is
+something that you have to do.
+
+In corrections, we
+have a broad array of
+
+different age groups,
+different skill sets.
+
+Some people are very, very computer
+savvy and
+
+technologically-driven, some people are not.
+So, as a facilitator,
+
+you have to create that
+learning environment for them.
+
+You have to make sure that
+you can walk them to this
+
+and you can say it's okay. 
+It's okay that you may not know
+
+something. You raise your
+hand in the platform, you
+
+ask the question in face-to-
+face, we do this all the time,
+
+but we sometimes
+forget to do this when
+
+we're sitting behind 
+the screen.
+
+So, we have to make sure that even
+though the demand
+
+is different, the skills are equally
+important and
+
+we have to make sure
+that people can
+
+be comfortable in this so that
+the learning transfer occurs.
+
+Ashley: Okay, next, it's super
+important that I
+
+had difficulty with when
+we switched to the VILT,
+
+was building that rapport
+that was one thing that I
+
+absolutely loved with my
+students was that connection.
+
+And building that connection,
+being able to develop that bond
+
+to get to know their
+first name, their
+
+last name, little things
+about their personal life.
+
+It's harder because we can't
+see them, we can't hear them
+
+and building
+that rapport makes
+
+people feel like
+they're a real person.
+
+And so, with engaging our learners
+the way that we do through VILT,
+
+they can ask those questions,
+participate in discussions
+
+and help create that
+frequent engagement,
+
+whether it be with polling 
+questions or asking
+
+them to respond and chat or 
+unmute their mic, use that
+
+white board that we talked
+about and contribute to that
+
+discussion or help create a list of things
+that we need to work on.
+
+So, next, and...
+
+Leslie: And if I could... Yeah, thank 
+you, Ashley,
+
+if I  could just add one quick 
+thing and I asked
+
+this question in chat and I think it's
+really
+
+important because 
+something I hear a lot
+
+from folks is so how
+can I build rapport
+
+in either a webinar 
+or a VILT?
+
+Think about what we've
+done today just
+
+in the webinar format to attempt
+to build rapport for you.
+
+What are some of the things
+that you can transfer
+
+over from techniques and strategies
+that work when you're in person
+
+that will also work for
+the VILT or the
+
+virtual instructor-led
+classroom? There
+
+are some things we've done today
+very specifically to do that.
+
+One of the things
+we've done and I
+
+just want to pause on that one
+because I think that's a big one in
+
+terms of that and the
+technology and making myself
+
+and learners comfortable,
+how do you build rapport?
+
+And you guys see what comes
+up in chat, Jeff and Ashley.
+
+What are you guys
+seeing in chat and
+
+answer in response to
+that question I'm posing?
+
+Ashley: Calling on specific
+people by name. I use that
+
+with my class roster ahead of
+time what facility they're at
+
+and referring to them by
+their first name. Yeah, absolutely.
+
+Leslie: Mm-hmm, mm-hmm.
+
+Jeff: And webcams is a big
+one and, you know, honestly,
+
+we turn our webcams
+on to introduce
+
+ourselves and then
+we shut them off
+
+because we have so
+many connections. It
+
+really drags our
+bandwidth down and we
+
+figured out that
+that really kills
+
+our audio here, but when we're
+in small build sessions of 30
+
+or less, we're going
+to have our webcams
+
+on all the time. So,
+that's a great point.
+
+Another thing that I was
+thinking about is pre-activities.
+
+So, when you're setting
+up a bill, you can
+
+do pre-activities and emails
+and getting to know you,
+
+especially if you don't
+know people. Share bios,
+
+favorite things,
+struggles, things like
+
+that. So, there's a
+lot of different
+
+pre-activities that
+you can do to build
+
+that rapport before
+you even start.
+
+Leslie: Thank you and sorry,
+Ashley, I
+
+interrupted you and Jeff, and
+you were right at be a teacher.
+
+Jeff: Thank you and the last
+one would be a teacher.
+
+Think about that. You
+have an opportunity
+
+to ensure that this
+learning transfer
+
+occurs, 
+and you have to, not only
+
+present and facilitate
+and lecture, but
+
+you have to be the teacher. So, in a
+sense, I kind of think of this as
+
+hand holding and
+you're going to walk
+
+them to it. You're
+going to make sure
+
+that what you
+normally would do in
+
+person, you're going
+to make sure you're
+
+keeping aware as a virtual
+instructor and a virtual teacher
+
+and you're going to
+keep that session
+
+flowing. You're going to make
+sure that you're being engaging
+
+and responding to those
+chats asking for
+
+questions along the way,
+making sure that you
+
+are giving time,
+taking a pause,
+
+allowing people to get
+a drink and to just
+
+soak in some of the
+things that were
+
+going on. And so,
+think about that as
+
+you're also being a producer
+as you're being a facilitator.
+
+You're also a teacher.
+So, think about
+
+that when you're
+trying to make sure that you are
+
+being intentional with
+your engagement activities.
+
+Ashley: Something also to consider is
+practice and being authentic.
+
+Let's face it, folks. I know as
+well as anybody else, Murphy's Law.
+
+if it can go wrong,
+it will go wrong. So,
+
+practicing those five skills,
+preparing ahead of time helps build
+
+that being able to be comfortable,
+improve the multitasking feel,
+
+skills, as well. Through
+that experience, I
+
+suggested earlier
+having a little IT
+
+bag of tricks that you know
+about that has worked for you,
+
+suggesting those to
+your learners, if
+
+possible. Have a
+planning session and be
+
+interactive always in
+that virtual classroom,
+
+creating those polls
+ahead of time,
+
+having those questions prepared
+that way you don't have to come
+
+off the top of your
+head with them. Those
+
+are just some of 
+the suggestions.
+
+Write a script, edit
+the script as you go,
+
+if something's working,
+not working for you
+
+and master the content
+of that script.
+
+So, that's just our
+final bit of advice
+
+when it comes to the essential
+virtual facilitator skills.
+
+Beth: All right, thanks,
+Ashley and Jeff and
+
+I just I really want to
+say one thing. I've been
+
+sitting here listening to
+what you're saying and I go back
+
+to thinking
+about a training that
+
+I co-facilitated with Jim
+Wiseman, who is on this
+
+training session with
+us as one of the facilitators,
+
+and, you know, not only
+is it important to
+
+develop the rapport with your
+participants, but your co-facilitators.
+
+You must practice. I
+know we've said that
+
+a hundred times 
+at least and
+
+hopefully we'll say it
+a hundred times more
+
+before this is over. In order
+for this to be successful,
+
+you really have to be comfortable
+with your co-facilitators
+
+and have that
+rapport with them.
+
+Egos really need to go
+out the window because
+
+if you have ego, if
+you are in a power
+
+struggle with your co-facilitator,
+potentially that information
+
+or that observation can come
+out in the evaluation process.
+
+So, again, I'm going
+to pick on Leslie Bexley.
+
+She made a comment about the
+importance of evaluation.
+
+This process in this
+way that that we
+
+are presenting training
+and creating training
+
+is new for for
+virtually everyone.
+
+And we are continuing
+to improve
+
+content, improve delivery and
+improve the way that we do things.
+
+And as facilitators
+and as producers,
+
+you know, we really
+need to be open
+
+to the feedback. So, I'd like
+for you to just take a second
+
+and give us some examples of how
+you use evaluation as a part of
+
+virtual-led instructor 
+training.
+
+And while you're
+typing that, I can just say
+
+whenever National Institute of
+Corrections puts on any kind of VILT,
+
+not only do the producers
+and the facilitators
+
+practice, practice, practice,
+we also will stay online
+
+and we will do a debrief
+after everyone has gone.
+
+What did we do well? What feedback
+did we receive in the chat?
+
+Did anybody receive
+text messages or
+
+emails indicating any
+issues that we had?
+
+And we're keeping notes on that
+so next time it can be better.
+
+So, some of the things
+that I'm seeing is
+
+an email asking for feedback,
+a survey before and after the
+
+training. Yes, absolutely. Asking
+your co-workers to observe a
+
+run-through, which, you know, essentially,
+could be a pilot and
+
+give you honest 
+feedback,
+
+sending out SurveyMonkey. You
+know, sometimes people don't
+
+want to be honest because
+especially if they're going to
+
+have any kind of constructive
+feedback or constructive criticism,
+
+but, you know, if you
+have that rapport
+
+that you've created with your
+participants and your co-facilitators
+
+and your producers. It's hopeful
+that you will have an open,
+
+honest environment and be
+able to take that feedback
+
+and that all
+of those different
+
+evaluation methods and
+continue to improve
+
+your training.
+Interesting that Reshma says I
+
+created and generated
+a survey to gain
+
+insight into learning
+preferences. That's
+
+awesome. I've
+not thought of that.
+
+Jeff, do you have 
+anything to add?
+
+Jeff: I would just say that
+thinking about evaluation,
+
+what did you design
+in? Did you design in
+
+points to be evaluated
+through teach back,
+
+designing aha moments
+or just even at
+
+the end of the lesson
+asking what was the most
+
+important thing you
+took away from this?
+
+What was the one thing
+you learned today
+
+that you're going to implement and
+things like that. So, what you're
+
+doing is you're allowing them
+to say this is what I learned
+
+and you're being able to then
+kind of continue to evaluate
+
+were you able to get
+the point across
+
+that you designed in
+that you intended to
+
+develop and make sure
+that you put into play.
+
+Leslie: Fantastic ideas and
+I want to share one
+
+and I know John 
+Eggers and Jim
+
+are here on the line. I
+believe almost my whole CLD
+
+team is on the line.
+Something that we're doing
+
+is as a part of the
+beginning of each VILT
+
+session after the first one, I'm
+going to be doing what we call a
+
+review preview, which is a
+what bubbled up for you.
+
+And we're going to ask
+specifically for feedback
+
+on how the virtual
+instructor-led
+
+training environment
+is working for them.
+
+So, we just, you know,
+we're not gonna
+
+keep, you know, not
+address the elephant
+
+in the room we're going
+to get live real-time
+
+feedback
+after people have had
+
+just a little bit 
+of soak time.
+
+And, again, our sessions are
+every Tuesday and Thursday.
+
+So, they won't lose
+what they thought, but
+
+sometimes your reflective learners
+need just a little bit of time
+
+to answer that
+question with some
+
+really solid 
+information for us.
+
+So, I think we're almost
+ready to pull this
+
+all together here and
+just a heads up,
+
+question and answers are
+coming up shortly for everyone.
+
+Just wanted to give
+you that heads up
+
+if you haven't already posted
+your questions to us.
+
+So, here's our road trip
+and where we visited
+
+with lots of considerations
+all along the way,
+
+not only in this webinar, but in our
+other webinars.
+
+So to 
+summarize...
+
+Ashley: First, we start off
+with that analysis. Oh,
+
+that analysis. We
+talked about the tools
+
+that we're designing to
+support our agency's platform,
+
+that we need to use, taking
+that instructor-led curriculum
+
+and converting it. We talked
+about how much time that takes.
+
+So, once that analysis is completed,
+our next stop was design
+
+Archie: And then moving on up on
+down that ADDIE road trip,
+
+we have
+design where we're
+
+talking about the interactions
+and engagements, like
+
+what are we going to
+do in order to kind
+
+of achieve those collaborations
+and how are they supported
+
+by the platform that
+our agency is using?
+
+So, getting familiar
+with that knowing
+
+what that is because we definitely
+want to have those interactions,
+
+those engagements really
+drive what's our next piece.
+
+Those performance
+objectives.
+
+I promise you, I'm
+gonna get that word
+
+out. I love performance
+objectives, but I
+
+cannot get it out. 
+I'm so excited,
+
+but that's what
+drives us, right? So, we
+
+got those engages and interactions,
+right? So, is it going to be
+
+serial, like, you know, a
+killer or a podcast
+
+or is it going to be
+current, like a drug
+
+charge? What are 
+we doing there?
+
+But, again, that's what drives us
+is our performance objectives.
+
+Let's keep on going
+down to the development.
+
+Jim: Thanks, Archie, and so
+glad I'm following
+
+you and after you
+talked about design
+
+and the great job that you did
+in leading us through a design.
+
+And so glad to hear
+you talk about
+
+performance objectives
+drive and that's
+
+how you develop the
+lesson plan. So many
+
+of the trainers
+from the past or
+
+maybe from the school
+of hey, let's write
+
+their lesson plan
+and then go back and
+
+put some objectives in
+so glad to hear you
+
+talk about the objectives
+or what drives
+
+the train. And you got
+to make sure once
+
+when you do the
+development, now you got
+
+to make sure that design flow matches
+well with the objectives and
+
+the content and all the
+interactions and engagements.
+
+You talked about and
+you got to make
+
+sure that those 
+interactions and
+
+engagements are going
+to work for you
+
+as you develop this in a
+virtual instructor-led world.
+
+So, that's development. Now, let's
+talk about our implementation.
+
+Beth: So, we've
+analyzed, we've designed,
+
+we've developed we've
+gone down this curvy road
+
+and now it's time to
+implement. You have
+
+heard I think all
+of the facilitators
+
+say five or six times and
+multiple people in the chat,
+
+practice, practice, practice.
+It's really, really important
+
+that when you are getting ready
+to implement this training,
+
+that you are practicing
+and that you are also
+
+building on your facilitator
+strength and utilizing them
+
+in the best capacity
+that fits their
+
+skill set in order for that
+training to be the most successful.
+
+So, once we have implemented, it's
+now time for us to evaluate.
+
+Jeff: Wait, what? We have to evaluate
+our virtual training?
+
+I've never heard of
+this. So, yeah, I mean
+
+think about this. if we're
+not evaluating our training,
+
+how are we going to
+get that feedback
+
+that we need to make
+sure that we were
+
+meeting our objectives?
+What types of
+
+strategies are you going
+to use to measure
+
+your virtual training, your
+interactions, your engagements,
+
+your collaborations deployed.
+So, think about this
+
+and when you design
+this, think about
+
+what you're going to evaluate and
+so you can put your evaluation
+
+throughout. that chat
+should start early
+
+and then make sure
+that you're
+
+putting it back into
+that cycle and you're
+
+questioning yourself along
+the way. What am I evaluating?
+
+Am I getting out
+there in the job
+
+site and evaluating? Am I
+talking to some of the
+
+trainers? Some of the
+officers out there that are
+
+training some of these
+new folks after
+
+the training, what
+are they seeing?
+
+So, different things
+that you can do to
+
+make sure that you're evaluating,
+but don't forget the evaluation.
+
+Again, as we've talked
+about in some of
+
+our previous webinars,
+we often kind of
+
+gloss over analysis
+and evaluation, but
+
+those are important.
+Those are your
+
+bookends, if you will. So
+make sure that we're
+
+not forgetting 
+about evaluation.
+
+Leslie: And with that, our 
+road trip is complete
+
+ in terms of designing and adding interaction
+and engagement
+
+and collaboration tools to our
+virtual instructor-led training.
+
+So, it is now time for you to
+actually chat to us and so,
+
+Jeff, Jim, and Ashley, what
+do we want them to do here?
+
+Jeff: Well, chat some ideas
+with us. Let's
+
+hear what are some of your
+initial plans to
+
+design and add in some interaction
+and engagement activities?
+
+Are you already doing it? Have you
+never thought about it before?
+
+Is it a challenge for
+you based on what
+
+you're able to 
+do at your agency?
+
+What will they not
+allow? Things like
+
+that. So, just give us some chats as
+you're thinking about
+
+designing and developing and
+implementing and evaluating.
+
+You heard us kind of
+talk about it. What
+
+are you thinking? How are
+you going to do this?
+
+And start chatting
+some stuff in here.
+
+Jim: Yeah, thank you, Jeff.
+
+Beth: Sorry, Jim. People are coming
+out with smaller class sizes.
+
+More technical interaction.
+Oh, chat's on fire.
+
+There it goes. Sorry,
+Jim, what do you see?
+
+Jim: Oh, just this reading  what you
+said, Ashley, and also, you know,
+
+talking about, you know,
+practice, practice, practice
+
+with the new tools I really
+like seeing that and, you know,
+
+there were some questions 
+before you even
+
+asked that question, Jeff, and I'll throw
+some of those out.
+
+I want to make sure
+we don't lose these
+
+because I think it
+was might have been
+
+Katie earlier. They asked
+the question about
+
+how much lecture do we
+recommend and,
+
+you know, I think, you know,
+there's different
+
+schools of thought
+on that, Katie and
+
+whoever else might
+be thinking that,
+
+but, really, you
+just can't lecture
+
+more than one or
+two slides without
+
+having some kind of
+interaction, some kind of
+
+something to get them active
+and engaged in doing things.
+
+So, that's just my
+thought on that. I
+
+want to make sure we didn't
+lose sight of that question.
+
+Great stuff. What else you
+seeing, Jeff, in the chat?
+
+I saw a question
+earlier and, again, it
+
+just there's different
+scenarios that
+
+are going to play
+out for everyone in
+
+their agencies but they talked about,
+you know, can you have your
+
+participants have
+control of the slides
+
+so they can move the slides
+instead of the instructor.
+
+And there are different
+platforms that
+
+allow different things.
+So, your platform
+
+may allow you to engage that,
+your platform may not. So, you'll
+
+just have to see what
+platforms you're using.
+
+There's times where
+we will turn it on
+
+or we will turn it 
+off depending
+
+on the instruction that
+we're doing or the scenario
+
+if we're given group
+activity, maybe they
+
+want to thumb back
+through the slideshow
+
+and take a look at
+some other things. So,
+
+there's opportunities
+you have as a
+
+trainer depending
+on the different
+
+platform that you're
+using to engage
+
+your participants in
+different ways. And, again,
+
+like we talked about,
+really, you get
+
+there with practice.
+You'll set up
+
+sessions where it's just you
+and a couple other trainers.
+
+And you'll get in
+there and you'll play
+
+around with them. 
+So, I think that
+
+the more you familiarize
+yourself with the platforms,
+
+the more effective 
+you become.
+
+Ashley: Sorry, also seeing the
+interactions with the
+
+three to five minutes and using
+multiple trainers from different
+
+aspects with different experiences
+that helps people, as well.
+
+So then, we have to
+ask those other
+
+questions that we
+have. Leslie, go ahead.
+
+Leslie: Yeah, yeah. Well, I saw
+one early on and thank you,
+
+Jeff, for addressing that and
+it was that thing about,
+
+do I allow my participants
+to forward their own slides
+
+or to save the slides
+or save whatever I'm doing.
+
+You know, you have to
+think about what is
+
+the outcomes? It all goes back
+to performance objectives.
+
+What outcomes are you looking
+for that live online session?
+
+Will it assist in
+learners meeting
+
+or exceeding the
+performance objectives
+
+by allowing them
+controls of the slides
+
+or would that take
+away from that? So,
+
+again, everything always goes back
+to the performance objectives
+
+in whatever engagements
+and interactions
+
+and collaborations 
+you design,
+
+as well as what kind
+of settings you put
+
+on any given session. It all
+goes back to the outcome.
+
+I know there's lots of questions
+also about how do we get
+
+leadership support,
+not only around just
+
+really committing to the use of
+virtual platforms, but also that
+
+whole thing about you know are
+they going to support it, not only
+
+with you know verbal
+support, but be able to
+
+support people with real
+time dollars and staff
+
+resource and even
+technology build-outs.
+
+What would you guys say to someone
+seeking more information on that?
+
+That was a 
+question.
+
+So, one resource for
+that is webinar one.
+
+We explicitly talked
+about that.
+
+I know several questions were about
+how can I really convince them
+
+of the time needed
+to develop just one
+
+hour of training. The American
+Talent Development Association
+
+is a fantastic
+resource to you.
+
+So, ATD, that is where
+we get all of our best
+
+practice information
+from and then
+
+they do that survey
+on the time needed
+
+to convert one hour
+of training
+
+depending or the time
+needed to actually
+
+develop one hour of training
+and then you have to put
+
+a little bit more time estimate
+on there if you're converting.
+
+So, what about the
+whole idea of how
+
+to get resource 
+support, you know,
+
+real leadership
+commitment because I
+
+saw several people
+chatting about that
+
+and asking that
+question dies here
+
+on the facilitation team. 
+What do you need to
+
+show your leadership
+to get them to commit
+
+time dollars and 
+staff resources
+
+to virtual instructor-led training
+or any kind of virtual learning.
+
+Beth: I think one one of the
+issues or barriers
+
+is if you have
+leadership that does not
+
+have any kind of
+curriculum background or
+
+training background.
+One thing that I did
+
+was I involved a 
+supervisor that
+
+I had who was a
+warden at one point
+
+in time and really 
+had no idea
+
+and really anything about training.
+Great boss, wonderful person,
+
+but I just sat down with
+him and I went through
+
+some of the research that
+I had done and I also
+
+weekly checked in with
+him when I was creating
+
+virtual-led instructor training
+in transitioning over
+
+some of our curriculum,
+and basically
+
+every week doing the
+check-in with him,
+
+saying okay this is
+how far that I've
+
+gotten, this is how
+much time I worked.
+
+And it was really about
+an education process.
+
+Leslie: Mm-hm. Yeah, because 
+usually they're worried
+
+about the bottom line on 
+everything, including learning and
+
+development that's going
+on in your organization.
+
+So, yeah, it's an education
+process over time.
+
+We, here at NIC, are a
+living example of that,
+
+as well. So, 
+it's not just you
+
+or how you're feeling that is shared,
+not only in the public sector
+
+and the government sectors, but
+also in the private sector.
+
+So, all of us learning
+and development
+
+professionals are in
+the same boat when
+
+it comes to that. 
+That's a theme
+
+that runs throughout ATD
+research that I really recommend
+
+you check out their
+website and also ICTP.
+
+I know that there's
+going to be a
+
+virtual conference coming
+up later this year
+
+and they actually will be addressing
+some of those questions there
+
+during that conference. We
+typically do one or more sessions
+
+during the ictp conferences 
+so I know I've seen another
+
+one here. It's a best 
+practice
+
+question. I've seen somebody 
+saying, hey, should I do
+
+15 days of training
+in a row via VILT
+
+and what is the sweet spot in terms
+of number of hours of duration
+
+for training sessions? So, I
+would refer you, first of all,
+
+back to webinar two and the
+participant workbook
+
+because we addressed that
+in great detail there
+
+and that idea of doing
+both online and live
+
+online content and activity
+because it is not a one-to-one
+
+correlation between we did
+40 hours or 178 hours
+
+of basic training. So, that
+means I'm gonna do 178 hours
+
+of online training. Actually, it
+doesn't. You have to look at
+
+how people learn, how
+much information
+
+and activities they can
+take in one setting
+
+in the virtual instructor-led
+training environment.
+
+That's why when you
+go and look back
+
+at webinar two, you'll see
+three different examples
+
+of how to do all virtual
+instructor-led training
+
+for me, myself, 
+with correctional
+
+leadership development and management
+development for the future.
+
+We're doing a dynamic blend of
+multiple three-hour sessions with a
+
+15-minute break at the
+approximate midpoint.
+
+We have pre-session work
+leading into each session
+
+and intercession offline assignments,
+both team and individuals.
+
+So, if there's a sweet spot,
+it's somewhere between
+
+three and four hours. Once you
+hit that over four hour mark,
+
+you've really lost participants
+because that goes to
+
+just human attention
+spans and think
+
+about all the things
+you've said here
+
+about how much more
+intensity it takes for you.
+
+Well, that's also true
+for your participants.
+
+So, what other questions
+are you all seeing
+
+in here. I know somebody
+had asked earlier,
+
+do we have a facilitator
+guide for this webinar?
+
+Yes, we do and it is written
+at the handoff-level, meaning
+
+there are cues for
+each one of us
+
+and then we put it in our
+own words and paraphrase it.
+
+So, just like you need
+great curriculum
+
+for in-person training
+for it to go well,
+
+you also need even more
+paramount and critical
+
+to have really detailed
+curriculum for
+
+virtual instructor-led
+training. And
+
+this is a webinar and we have
+a detailed facilitator guide.
+
+So, just wanted to you know
+pull that curtain back again
+
+and answer that
+question. So, other
+
+questions that we saw there.
+Jeff, have you seen some others?
+
+Jeff: Yes, there was one talking 
+about how can we ensure that
+
+we can maybe keep continuing to 
+do virtual training even after
+
+Covid and I think that's one of the
+things that you have
+
+to really kind of closely
+evaluate. And,
+
+so many times, we think that a
+butt in the seat in the classroom
+
+is actually learning,
+but virtually
+
+behind a computer, they're
+not really engaged.
+
+I would argue that I can
+engage participants
+
+better in an online
+platform than I can
+
+sometimes in a
+traditional classroom. In
+
+a traditional
+classroom, sometimes
+
+they'll sit there
+and you're not sure
+
+what they're doing, right,
+because of the way that
+
+the lecture is
+prepared or things of
+
+that nature, but when
+I've got them in a
+
+virtual classroom and
+I've built in these
+
+engagement activities 
+and these
+
+interactions, I'm not letting more
+than two or three minutes go by
+
+before I'm asking
+someone to give me a
+
+green check, give me a
+smiley face emoticon,
+
+chat me the number
+five, like Archie said.
+
+I'm gonna put you
+in a breakout session.
+
+I'm gonna have you do a teach
+back. So, there's a lot more
+
+opportunities I think
+to engage and to
+
+make sure that the learning
+transfer is occurring.
+
+So, again, it's how you design
+it, it's how you present it
+
+and it's how you sell
+it and invite that
+
+leadership to your training and
+let them see that it's working.
+
+Leslie: Mm-hm. And I know several
+of you had asked
+
+questions early on
+because you're not
+
+necessarily curriculum
+designers. If you go to our
+
+information center, there
+is a self-directed version
+
+of Effective Training 
+Design and
+
+Development. Now, 
+I'll tell you
+
+when we created that,
+that was about
+
+in-person training, but
+there's lots of things
+
+in there where we also talk
+about blended training
+
+in it, also. It
+wouldn't actually
+
+be all about
+how you virtually
+
+convert. There's so many resources
+out there available for you,
+
+but I do want to point that out
+as a resource. And, hello, Brasson!
+
+Yes, would it be an effective
+approach to deliver teach backs
+
+virtually? Archie, I'm going to let
+you respond to that question
+
+because you 
+have done it.
+
+Archie: Well, yes, it can 
+be done, but I want to emphasize
+
+one thing.
+It was a combination of what
+
+Ashley talked about
+in regards to your
+
+IT bag and what
+Jeff talked about
+
+in regards to kind of understanding
+the platform that you're
+
+in. Practice, practice,
+practice and so the
+
+reason why I say
+this because you can
+
+use webcams in order to kind
+of get some of the skills
+
+training work,
+some of the soft skills
+
+figure it out in a
+virtual classroom, but
+
+I can just tell you one of
+our producers, Scott Richards,
+
+we've worked 
+together to just
+
+understand what the
+platform looks like for
+
+all the different
+types of ways that
+
+people can come
+in. So, for example,
+
+some of you or most
+of you probably came
+
+in through a PC and
+were able to connect
+
+through a desktop app
+and so when Leslie
+
+said click on the little
+chat bubble on the
+
+bottom right corner you found it;
+however, if you came into a browser
+
+maybe it's in a
+different spot. If you
+
+have people coming
+on our iPhone or
+
+iPad or using some
+ios type of platform,
+
+it looks different.
+So, when you're
+
+practicing with your other
+trainers to kind of get familiar
+
+with these different
+settings, really
+
+try to log in from, 
+like, you see
+
+this person is juggling a
+phone, a tablet and a laptop.
+
+Figure out what it
+might look like for
+
+people coming in all
+different types of ways
+
+so that you can have it in
+your IT bag. Now, I want to say
+
+most of us 
+in the panelist box, will
+
+not profess that
+they are some IT
+
+guru, but with a lot
+of practice, practice,
+
+practice, you 
+start to understand.
+
+Exactly. but, Leslie,
+you can navigate and
+
+tell people where to 
+go in WebEx
+
+without even batting an eye and
+that's just because of the practice,
+
+practice, practice. So, all that stuff
+can be done, but, again, I just
+
+chalk it up
+to practice, practice, practice
+
+and making sure that
+people have the capability
+
+of being able to show their
+faces on those cameras
+
+for some of that work
+to be done.
+
+Leslie: Yeah. Thank you and 
+so I wanna just let everybody
+
+know that in chat, we're having a
+great discussion
+
+and sharing. Christine is sharing
+how she chunks up
+
+her training with breaks. I know
+somebody's gonna ask can you do
+
+physical self-defense skills
+training virtually?
+
+Please, do take a look at chat and
+see what Ashley shared about that.
+
+And our last question,
+I want to point out
+
+and it's a great
+question and thank you
+
+so much, Jeff Merino,
+for asking it.
+
+You guys seem to
+have divided up this
+
+material and subject matter
+into 1.5 hour chunks.
+
+Was this on purpose versus combining
+into a longer three hour class
+
+you just mentioned as
+being best practice?
+
+Well, Jeff, what you're
+asking us to tease
+
+apart here and it's
+really important to note,
+
+we are delivering a webinar, today.
+In webinars, the best practice is
+
+1 -1.5 hours for virtual instructor-led
+training where you're able to do
+
+so much more interactions and
+engagements using breakouts
+
+and each participant
+annotating,
+
+all kinds of things that we
+can't do in the webinar format,
+
+you can go a little
+bit longer. You'll see
+
+research out there saying
+two to three to four
+
+at the most is the best practice
+
+for length of sessions
+for virtual instructor-led
+
+training. The best practice for
+webinars is somewhere between
+
+1 and 1.5
+hours with tons
+
+of engagement and interactions.
+The most you can design in.
+
+So, yes, it was very deliberate
+on our part when we actually
+
+initially designed and
+conceptualized this webinar series.
+
+We knew it would be three.
+We knew each would be
+
+1.5 hours in
+duration and we knew exactly
+
+what our performance objectives
+were and our content were
+
+for each session. So, yes, again,
+overarching design, when you are
+
+designing not only a series
+of webinars, like we've done,
+
+but an overarching design of your
+virtual instructor-led training.
+
+So, I believe we have
+some resources here
+
+best to share 
+with everyone.
+
+Beth: We do and what a nice segue. 
+I'm monitoring the chat and
+
+Ann Schafer ask is there a location 
+where you can list the best
+
+practices or share resources? So, ask
+and you shall
+
+receive. So we've listed
+just a couple of the
+
+resources. There are a
+few of the resources
+
+that you can utilize. There have
+been a lot of questions about,
+
+you know, how do we get
+started or, you
+
+know, how long should we last? You
+know, based on topic, that can be
+
+very different. You have a
+lot of resources here with
+
+the participants, the NIC staff,
+your facilitator, but, also,
+
+just going online and doing some
+of your own research can really be
+
+beneficial in getting your
+virtual lead instructor training
+
+up and running.
+
+Leslie: Mm-hm. And I want to
+let everybody know that in the
+
+participant
+workbook for webinar two
+
+and several times uh the link
+to reach that on our website,
+
+has been posted
+there is a complete
+
+participant workbook
+for that one,
+
+including two pages of resource
+links. So, please, do check out
+
+that participant workbook for
+session two. And just to know,
+
+there will be a participant
+handout coming for
+
+this particular
+ webinar.
+
+And with that, we hope that,
+now, each one of you is
+
+now able to convert your
+instructor-led training
+
+to virtual instructor-
+led
+
+training using the
+nuts and bolts
+
+that we've shared across all
+three of these webinars.
+
+So, I want to give the floor
+to Jeff for a final thank you.
+
+Jeff, you're muted. Jeff there
+you go. You're muted.
+
+Jeff: You got two mute buttons you got
+to play with, here. So,
+
+just want to say thank
+you to everyone
+
+for attending. And
+at NIC, we love
+
+doing this, we love helping out
+and assisting in any way we can.
+
+One of the things
+that I think was
+
+really neat from this
+three series webinar,
+
+we learned a lot from each other
+in the chat, and even today, I saw
+
+participants sharing
+curriculum with
+
+each other and bouncing emails back
+and forth and things like that.
+
+And I just wanted to
+say that we partner
+
+with all the big 
+organizations,
+
+ACA, AJA, APPA and
+that's how we get a
+
+lot of information from you and
+also provide information and we
+
+do a lot of these things. There's
+another organization that, like,
+
+Jim Wiseman mentioned,
+he was the past
+
+President of ICTP and
+if someone could
+
+chat that address in, that
+web address, would be great.
+
+We partner with them frequently.
+It is the only corrections
+
+network for trainers,
+specifically. So,
+
+they bounce curriculum back and
+forth with other trainers
+
+and they find out, hey, this is how
+best practices are utilized. So,
+
+we present at IACTP's virtual 
+conference last year and
+
+this upcoming October, as
+well. I encourage you
+
+to hit that website.
+You'll find a plethora of resources to
+
+get in contact with
+other trainers.
+
+And, again, we partner
+with all these
+
+organizations to help
+make sure that we
+
+can get this information
+into your hands.
+
+We really
+enjoyed the series. We
+
+hope that you were able
+to learn something.
+
+You have all of our
+contact information.
+
+Please, don't hesitate
+to reach out to us
+
+and, Leslie, let me turn
+it over to you.
+
+Leslie: All right. Thank you, 
+Jeff, and I want to
+
+give a big shout out and thank 
+you to Jeff, Ashley, Beth,
+
+Jim and Archie, my co-facilitation 
+partners in this series and
+
+in many other projects  and a 
+big thank you to our NIC
+
+producer team who always 
+performs flawlessly behind the scenes.
+
+We have Evelyn Bush, Belinda
+Stewart, Case Dent and Glenn
+
+Watson. So, most of
+all, most of all,
+
+we want to thank all
+of you for being
+
+here and your 
+full participation.
+
+Just a couple of
+reminders. As all
+
+webinars in this series
+are being recorded
+
+and you're going to receive
+notification from me
+
+on when they are 
+accessible on
+
+the NIC website for
+viewing and download.
+
+Also, I know there were
+questions in chat about
+
+how we actually monitor and report
+attendance and participation
+
+in these webinars. What I will
+do tomorrow morning is I'm
+
+going to run an
+attendance report
+
+and then you will get a
+verification email from me
+
+that you participated.
+Also, if you logged on
+
+today's webinar, in
+about 30 minutes or so,
+
+you will get a thank you
+for attending and in that
+
+email from the messenger
+at WebEx.com system,
+
+will be also an email to document
+and verify your attendance
+
+right out of the 
+WebEx system.
+
+So, again, don't forget the
+functionality of your platform
+
+with what it can do for you in terms
+of all those kind of questions.
+
+I saw another question and we
+always get this for webinars
+
+about do I get a
+certificate for this?
+
+Well, you're not going to
+get a certificate from
+
+NIC on this because we did not
+run this through our learning
+
+management system, niclearn.com.
+Since we have such big crowds for
+
+webinars we actually
+do the attendance
+
+and registration
+process directly
+
+through WebEx. So, please, do check
+your spam or junk folders
+
+from emails from me as
+well as from
+
+messenger@webex.com.
+Thank you all
+
+for being here today.
+Jeff has posted
+
+February the 3rd through 6th,
+which is starting, today, NIC
+
+is having a virtual booth at ACA's
+virtual conference. If you have
+
+registered for that,
+that is already
+
+begun and sessions
+have been running
+
+since this morning,
+eastern time. I know
+
+I'm looking forward to attending
+hopefully one or more sessions and
+
+actually visiting the booth.
+Thank you all for being here.
+
+Stay safe, stay healthy. Get a
+vaccination. Elizabeth says our
+
+booth, virtually,
+is in hall 4. We'll
+
+see you at virtual
+conferences coming up.
+
+Stay in touch. Thank 
+you, everyone.
+
+This concludes
+today's webinar.
+
+
+EOF
